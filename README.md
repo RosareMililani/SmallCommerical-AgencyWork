@@ -37,5 +37,8 @@
 - Based on the roles, what authorizations do they typically have? (default to quoting & issuing)
 - Rank the roles in how often they are used within agency portal
 
+## Agency Archetype Map (Figma)
+- https://www.figma.com/file/e7qH5f1QDzNBUYnQX00lDP/Small-Commerical-Archetypes?type=whiteboard&node-id=0%3A1&t=UfcdfzxmfY9cuw0L-1
+
 ## Process of All
 - Learn about archetypes > Interviews > Begin creating mockups of archetype map through sticky notes and work with copywriter > Talk to research team > Re-evaluate any work + interview with Customer Service agent > Present findings to SC team > Ideate ideas with team > Create low-fidelity wireframes 
